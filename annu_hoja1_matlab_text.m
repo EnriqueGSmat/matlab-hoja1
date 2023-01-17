@@ -1,7 +1,7 @@
 %% Practicas de Matlab
 %% Rutinas de Matlab y la resolución de EDO
 %% Hoja 1
-% *Nombre:* Uwe Brauer
+% *Nombre:* Enrique García
 % 
 % *Apellido:*
 % 
